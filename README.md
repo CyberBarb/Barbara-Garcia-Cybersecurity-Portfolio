@@ -1,1 +1,2 @@
-# cybersecurity-portfolio
+# Foundations
+After hearing about cybersecurity for two years, I decided to dip my toes in the water.  I started my journey in Coursera, learning the foundations of Cybersecurity and earning the Google Cybersecurit Professional Certificate. It was through this process I found that I not only enjoyed cybersecurity, I had a knack for it. So I kept digging deeper, taking more courses until I decided to jump off the deep end and enroll in a Master of Science in Cybersecurity program.  Throughout my MSCIA journey, I found myself pulling from what I learned in these first few months as I went deeper into cybersecurity concepts.
