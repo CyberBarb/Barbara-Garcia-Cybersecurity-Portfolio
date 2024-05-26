@@ -1,0 +1,1 @@
+In January, I started my formal cybersecurity education at Western Governors University.  I chose this school because its self-paced style fits with my need to learn at a faster than average pace. I have succesfully completed all work except the Capstone and am on track to graduate in June.
